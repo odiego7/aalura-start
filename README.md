@@ -1,2 +1,2 @@
-# aalura-start
-aalura start
+# Alura-Start
+Projeto 2A - Ruth 
